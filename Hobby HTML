@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Hobby: Hiking</title>
+  </head>
+
+  <h1>Hiking</h1>
+
+  <h2>Why I love to hike</h2>
+  <p1>Hiking is one of my favorite acitivies because it allows for lots of adventure and an escape from real life.  I love to explore around Montana and be in nature, especially with my loved one around me.</p1>
+
+  <h2>Places to Hike in Montana</h2>
+  <p2>Anywhere you find yourself in Montana, you can likely find a gorgeous trail or mountain to explore. Some of my favorites include Glacier National Park, Refrigerator Canyon, and Mt. Helena.</p2>
+
+  <img> src="https://www.travelandleisure.com/guide-to-glacier-national-park-8699033"</img> 
+
+</body>
+</html>
